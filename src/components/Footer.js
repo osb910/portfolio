@@ -131,6 +131,8 @@ const Footer = () => {
         <a
           href='https://www.github.com/osb910/portfolio'
           className='portfolio-link'
+          target='_blank'
+          rel='noreferrer'
         >
           <strong>Omar</strong>
         </a>
