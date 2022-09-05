@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import data from '../store/content/intro';
-// import myPhoto from '../assets/img/omar.png';
 
 const StyledIntro = styled.section`
   position: relative;

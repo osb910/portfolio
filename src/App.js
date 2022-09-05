@@ -12,7 +12,7 @@ import Header from './components/Header';
 import Intro from './components/Intro';
 import Skills from './components/Skills';
 import Work from './components/Work';
-import violetHand from './assets/img/violet-hand-typewriter.png';
+import violetHand from './assets/img/violet-hand-typewriter.jpg';
 
 const appear = keyframes`
   0% {

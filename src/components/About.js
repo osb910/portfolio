@@ -1,7 +1,6 @@
 import styled from 'styled-components';
-// import Service from './Service';
 // import data from '../store/content/about';
-import myPhoto from '../assets/img/omar.png';
+import myPhoto from '../assets/img/omar.jpg';
 import myCV from '../assets/Omar_Shareef_MERN_Developer_CV.pdf';
 
 const StyledAbout = styled.section`
@@ -167,7 +166,7 @@ const About = () => {
             </a>
           </em>
           . I'm proudly one of the two main reasons this project exists. I was
-          so delighted working on it{' '}
+          so excited working on it{' '}
           <span className='muted'>(as a linguist not as a developer)</span>. I
           have a deep <em>deep</em> passion for the Arabic language and Quran.
           If you happen to be the same, well, I'm glad you haven't extincted
